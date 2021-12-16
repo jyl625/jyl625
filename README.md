@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+My name is Jean Youn (or you can just simply call me Jean). I'm a software engineer with experience building web applications using Ruby on Rails and React / Redux. 
+
+I am just about to finish the software engineering curriculum at App Academy, a highly selective and immersive software engineering bootcamp, where I spent over 100 hours a week honing my coding skills and building projects like MocDoc. 
+
+[MocDoc](http://mocdoc.herokuapp.com/) is a ZocDoc clone that helps patients find and book appointments with the right doctors based on their specialty and insurance coverage. This is a project that really encapsulates my passions in empowering patients and coding. 
+
+When I'm not coding, I enjoy... 
+- 🎬 watching movies or the Office
+- 👀 catching up with NBA, NFL, and F1 on YouTube, 
+- 🏞️ daydreaming about which National/State Parks to visit on my next road trip. 
+
+Even in my free time, I'm passionate about building good fundamentals, whether that is on the basketball court 🏀 or on VScode 💻
+
 <!--
 **jyl625/jyl625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
