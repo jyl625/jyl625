@@ -8,7 +8,7 @@ I am just about to finish the software engineering curriculum at App Academy, a 
 
 When I'm not coding, I enjoy... 
 - 🎬 watching movies or the Office
-- 👀 catching up with NBA, NFL, and F1 on YouTube, 
+- 👀 catching up with NBA, NFL, Premier League, and F1 on YouTube 
 - 🏞️ daydreaming about which National/State Parks to visit on my next road trip. 
 
 Even in my free time, I'm passionate about building good fundamentals, whether that is on the basketball court 🏀 or on VScode 💻
