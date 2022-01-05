@@ -4,7 +4,7 @@ My name is Jean Youn (or you can just simply call me Jean). I'm a software engin
 
 I am just about to finish the software engineering curriculum at App Academy, a highly selective and immersive software engineering bootcamp, where I spent over 100 hours a week honing my coding skills and building projects like MocDoc. 
 
-[MocDoc](http://mocdoc.herokuapp.com/) is a ZocDoc clone that helps patients find and book appointments with the right doctors based on their specialty and insurance coverage. This is a project that really encapsulates my passions in empowering patients and coding. 
+[Mocdoc](http://mocdoc.herokuapp.com/) is a Zocdoc clone that helps patients find and book appointments with the right doctors based on their specialty and insurance coverage. This is a project that really encapsulates my passions in empowering patients and coding. 
 
 When I'm not coding, I enjoy... 
 - 🎬 watching movies or the Office
