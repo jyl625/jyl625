@@ -4,7 +4,7 @@ My name is Jean Youn (or you can just simply call me Jean). I'm a software engin
 
 I am just about to finish the software engineering curriculum at App Academy, a highly selective and immersive software engineering bootcamp, where I spent over 100 hours a week honing my coding skills and building projects like Mocdoc. 
 
-[Mocdoc](http://mocdoc.herokuapp.com/) is a Zocdoc clone that helps patients find and book appointments with the right doctors based on their specialty and insurance coverage. Currently, Mocdoc searches through a list of 14,000 Medi-Cal enrolled Fee-for-Service (FFS) providers in Los Angeles. This dataset was acquired from California Health and Human Services Open Data portal so searching for a provider on MocDoc pulls up real provider data (i.e. name, type of provider credential, type of practice, address, location, and National Provider Identifier). This is a project that really encapsulates my passions in empowering patients and coding. 
+[Mocdoc](http://mocdoc.herokuapp.com/) is a Zocdoc clone that helps patients find and book appointments with the right doctors based on their specialty and insurance coverage. Currently, Mocdoc searches through a list of 14,000 Medi-Cal enrolled Fee-for-Service (FFS) providers in Los Angeles. This dataset was acquired from California Health and Human Services Open Data portal so searching for a provider on MocDoc pulls up real provider data (i.e. name, type of provider credential, type of practice, address, location, and National Provider Identifier). This is a project that encapsulates my passions in empowering patients and coding. 
 
 When I'm not coding, I enjoy... 
 - 🎬 watching movies or the Office
