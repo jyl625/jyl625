@@ -2,7 +2,9 @@
 
 My name is Jean Youn (or you can just simply call me Jean). I'm a software engineer with experience building web applications using Ruby on Rails, JavaScript, React, Redux, Express.js, Mongoose, SQL, MongoDB, PostgreSQL, and many other technologies. 
 
-I graduated from the software engineering curriculum at App Academy, a highly selective and immersive software engineering bootcamp, where I spent over 100 hours a week honing my coding skills and building projects like Mocdoc. 
+I graduated from the software engineering curriculum at App Academy, a 16-week, 1000+ hour web development bootcamp program with a ~3% acceptance rate. Here, I spent over 100 hours a week honing my coding skills and building projects like Mocdoc. 
+
+
 
 [Mocdoc](http://mocdoc.herokuapp.com/) is a Zocdoc inspired single-page web app that helps patients find and book appointments with the right doctors based on their specialty and insurance coverage. Currently, Mocdoc searches through a list of 14,000 Medi-Cal enrolled Fee-for-Service (FFS) providers in Los Angeles. The provider dataset was acquired from California Health and Human Services Open Data portal so searching for a provider on MocDoc pulls up real provider data (i.e. name, type of provider credential, type of practice, address, location, and National Provider Identifier). This is a project that encapsulates my passions in empowering patients and coding. 
 
