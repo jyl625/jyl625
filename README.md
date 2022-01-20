@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jean Youn (or you can just simply call me Jean). I'm a software engineer with experience building web applications using Ruby on Rails, JavaScript, React, Redux, Express.js, Mongoose, SQL, MongoDB, PostgreSQL, and many other technologies. 
+My name is Jean Youn (or you can just simply call me Jean). I'm a software engineer with experience building web applications using Ruby on Rails, JavaScript, React, Redux, Express.js, Mongoose, PostgreSQL, MongoDB, and many other technologies. 
 
 
 I graduated from the Full-stack software enginnering curriculum at App Academy, a 16-week, 1000+ hour web development bootcamp program with a ~3% acceptance rate. Here, I spent over 100 hours a week honing my coding skills and building projects like Mocdoc. 
