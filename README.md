@@ -14,8 +14,6 @@ When I'm not coding, I enjoy...
 - 👀 catching up with NBA, NFL, Premier League, and F1 on YouTube 
 - 🏞️ daydreaming about which National/State Parks to visit on my next road trip. 
 
-<!-- Even in my free time, I'm passionate about building good fundamentals, whether that is on the basketball court 🏀 or on VScode 💻 -->
-
 <!--
 **jyl625/jyl625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
